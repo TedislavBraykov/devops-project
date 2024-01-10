@@ -1,6 +1,6 @@
 deloyment:
   name: flask 
-  image: 058302395964.dkr.ecr.eu-central-1.amazonaws.com/flask
+  image: 023235863085.dkr.ecr.eu-central-1.amazonaws.com/tedoflask
   tag: latest
   replicas: 1
   port: 5000
